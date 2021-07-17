@@ -1,4 +1,4 @@
-# DS-BI-Tasks
+# DS & BI-Tasks
 Supervised - Unsupervised ML, K-Means Clustering, EDA
 
 **Task 1:** Prediction using Supervised ML - ***Simple Linear Regression***
